@@ -1,0 +1,1 @@
+# Auto Shroom built in python with AI MODELS
